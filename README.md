@@ -1,1 +1,1 @@
-# PIPEandFILTER_APPLIED_for_DIPLOMA_printing
+This Project is application of PIPE and FILTER archetecture design pattern to apply for printing of diploma in university. Students can understand online that her or his diploma's request is where and which department is to requeird to process in the last stage if printing unit does not have any issues such as printing problem or other technical or nontechnical issue it can be print.
